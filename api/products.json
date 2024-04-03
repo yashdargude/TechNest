@@ -51,12 +51,56 @@
   },
   {
     "id": 6,
-    "name": "Television",
-    "category": "Video",
-    "brand": "Samsung",
-    "price": 199.99,
+    "name": "Lunar Connect Ace  ",
+    "category": "SmartWatches",
+    "brand": "Boat",
+    "price": 2499.00,
     "stock": 20,
-    "image": "../images/tv.png",
-    "description": "Smartwatch with a 1.3-inch AMOLED display, water-resistant design, fitness tracking features, and a stylish silver color."
+    "image": "../images/watch7.png",
+    "description": "Experience excellence with boAt Lunar Connect Ace smartwatch. Its 1.43 AMOLED Display delivers crystal-clear clarity and vibrant colors so you don’t miss any details. Stay connected with Bluetooth calling and save up to 10 contacts for quick dialing. Choose your style with metal mesh, leather, or silicone strap options as you add the edge by changing the watch face everyday from the 100+ options. "
+  }
+  ,
+  {
+    "id": 7,
+    "name": "Rockerz 400",
+    "category": "Headphones",
+    "brand": "Boat",
+    "price": 1299.00,
+    "stock": 30,
+    "image": "../images/headphone-prod-5.webp",
+    "description": "Let's put an end to your worries about wires hanging and getting tangled with BoAt Rockerz 400 and connect with any Bluetooth device, connect and play. Dead batteries can kill your vibe. "
+  }
+  ,
+  {
+    "id": 8,
+    "name": "Stone 1000v2",
+    "category": "Headphones",
+    "brand": "Boat-Supersonic",
+    "price": 2999.00,
+    "stock": 30,
+    "image": "../images/speaker-prod-2.webp",
+    "description": "Powerful and Precise. Stone 1000v2 is the premier wireless speaker that provides the best audio in the business. With its 14W stereo sound, get a boogie on and party all night. Stone 1000v2 also comes packed with state-of-the-art specs to keep you engrossed and engaged through it all!. "
+  }
+  ,
+  {
+    "id": 7,
+    "name": "Rockerz 400",
+    "category": "Headphones",
+    "brand": "Boat",
+    "price": 1299.00,
+    "stock": 30,
+    "image": "../images/headphone-prod-5.webp",
+    "description": "Let's put an end to your worries about wires hanging and getting tangled with BoAt Rockerz 400 and connect with any Bluetooth device, connect and play. Dead batteries can kill your vibe. "
+  }
+  ,
+  {
+    "id": 7,
+    "name": "Rockerz 400",
+    "category": "Headphones",
+    "brand": "Boat",
+    "price": 1299.00,
+    "stock": 30,
+    "image": "../images/headphone-prod-5.webp",
+    "description": "Let's put an end to your worries about wires hanging and getting tangled with BoAt Rockerz 400 and connect with any Bluetooth device, connect and play. Dead batteries can kill your vibe. "
   }
 ]
