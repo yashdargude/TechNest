@@ -71,6 +71,11 @@ li {
   list-style: none;
 }
 
+.web-logo{
+  color: black;
+  font-size: 4rem;
+}
+
 a {
   color: #646cff;
   text-decoration: none;
