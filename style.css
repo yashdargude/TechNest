@@ -73,7 +73,9 @@ li {
 
 .web-logo{
   color: black;
-  font-size: 4rem;
+
+  height: 100px;
+  width: 300px;
 }
 
 a {
@@ -245,8 +247,11 @@ textarea:focus-visible {
 }
 
 .section-navbar img {
-  width: 25%;
+  width: 75%;
+  height: 45px;
+  margin-left: 24px;
 }
+
 
 .section-navbar .navbar ul {
   display: flex;
@@ -286,17 +291,17 @@ textarea:focus-visible {
 /***** Hero Section *****/
 
 main {
-  height: 84vh;
+  height: 85vh;
   position: relative;
   background-color: #d9e9ff;
 
   background-image: linear-gradient(
     to top right,
-    #3d86fa,
-    #4484fb,
-    #679eff,
-    #b3d2ff,
-    #ebf3fe
+    #561e86,
+    #8e2de2,
+    #8e2de2,
+    #8e2de2,
+    #ac72de
   );
 }
 
@@ -331,17 +336,24 @@ main .section-hero {
 
 .section-hero .grid {
   align-items: center;
-  gap: 6.4rem;
+  gap: 6.0rem;
 }
 
 .section-hero {
   & .hero-subheading {
     text-transform: uppercase;
-    letter-spacing: 0.2rem;
+    letter-spacing: 0.04rem;
     font-size: 1.7rem;
-    word-spacing: 0.2rem;
-    color: #003b99;
+    word-spacing: 0.04rem;
+    color: #ffffff;
     font-weight: 700;
+
+    font-size: 22px;
+    font-weight: 400;
+    line-height: 28px;
+    margin-bottom: 20px;
+    margin-top: 10px;
+    max-width: 580px;
   }
 
   & .hero-heading {
@@ -362,8 +374,10 @@ main .section-hero {
 .section-hero img {
   width: 100%;
   height: auto;
-  transform: scaleX(-1);
+ 
 }
+
+
 
 /***** End Hero Section *****/
 

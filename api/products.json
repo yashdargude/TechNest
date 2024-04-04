@@ -1,23 +1,24 @@
 [
   {
     "id": 1,
-    "name": "Laptop",
-    "category": "Computers",
-    "brand": "ExampleBrand",
-    "price": 999.99,
-    "stock": 50,
-    "description": "Powerful laptop with a quad-core i5 processor, 8GB RAM, 256GB SSD, and a 14-inch FHD display.",
-    "image": "../images/lapi.png"
+    "name": "Rockerz 400",
+    "category": "Headphones",
+    "brand": "Boat",
+    "price": 1299.00,
+    "stock": 30,
+    "image": "../images/headphone-prod-5.webp",
+    "description": "Let's put an end to your worries about wires hanging and getting tangled with BoAt Rockerz 400 and connect with any Bluetooth device, connect and play. Dead batteries can kill your vibe. "
+  
   },
   {
     "id": 2,
-    "name": "Smartphone",
-    "category": "Mobiles",
-    "brand": "TechGadget",
-    "price": 499.99,
-    "stock": 100,
-    "image": "../images/iphone.png",
-    "description": "Feature-rich smartphone with a 6.2-inch screen, 12MP dual camera, 128GB storage, and a 4000mAh battery."
+    "name": "Watches",
+    "category": "Wearables",
+    "brand": "FitTech",
+    "price": 199.99,
+    "stock": 20,
+    "image": "../images/watch.png",
+    "description": "Smartwatch with a 1.3-inch AMOLED display, water-resistant design, fitness tracking features, and a stylish silver color."
   },
   {
     "id": 3,
@@ -83,24 +84,47 @@
   }
   ,
   {
-    "id": 7,
-    "name": "Rockerz 400",
+    "id": 9,
+    "name": "Trebel Rockerz 550 Wireless Bluetooth Headphones",
     "category": "Headphones",
     "brand": "Boat",
-    "price": 1299.00,
-    "stock": 30,
-    "image": "../images/headphone-prod-5.webp",
-    "description": "Let's put an end to your worries about wires hanging and getting tangled with BoAt Rockerz 400 and connect with any Bluetooth device, connect and play. Dead batteries can kill your vibe. "
+    "price": 1999.00,
+    "stock": 300,
+    "image": "../images/headphone-prod-3.webp",
+    "description": "Ladies, the time hath come to reach the wall of fame. Make your hustle shine like a diamond with TRebel Rockerz 550 — an audio partner that’s made to suit your vibe. Let your hustle never stop with its 20 hours of powerful playback and never settle for less with the sheer audio power of 50mm Dynamic Drivers. Block the voices that don’t matter with its physical noise isolation. "
   }
   ,
   {
-    "id": 7,
-    "name": "Rockerz 400",
+    "id": 10,
+    "name": "boAt  Pal 50 - earbuds",
     "category": "Headphones",
     "brand": "Boat",
-    "price": 1299.00,
+    "price": 3799.00,
     "stock": 30,
-    "image": "../images/headphone-prod-5.webp",
-    "description": "Let's put an end to your worries about wires hanging and getting tangled with BoAt Rockerz 400 and connect with any Bluetooth device, connect and play. Dead batteries can kill your vibe. "
+    "image": "../images/earbuds-prod-2.webp",
+    "description": "Immerse in the 20W RMS Stereo Sound with the powerful Party Pal 50 bluetooth speaker. Set the vibes of the party just right with the RGB LEDs. Keep worries at bay and party poolside with IPX5 splash resistant! Get, set, grooving as Party Pal 50 comes with a powerful playback of 4.5 Hrs "
   }
+  ,
+  {
+    "id": 10,
+    "name": "boAt Airdopes 141 Pro ",
+    "category": "Headphones",
+    "brand": "Boat",
+    "price": 1499.00,
+    "stock": 30,
+    "image": "../images/earbuds-prod-4.webp",
+    "description": "Take a step up on your listening experience with boAt Airdopes 141 Pro. Start playing your tracks on our best wireless earbuds and don't stop with a total playback of 45 hours. Never miss a beat with boAt Signature Sound on our all-new boAt Airdopes so that every song that you listen to shines through. Plug-in and live the sound."
+  }
+  ,
+  {
+    "id": 10,
+    "name": "Stone 352 - Wireless Portable Bluetooth Speaker ",
+    "category": "Speakers",
+    "brand": "Boat",
+    "price": 3499.00,
+    "stock": 100,
+    "image": "../images/speaker-prod-3.webp",
+    "description": "Take a step up on your listening experience with boAt Airdopes 141 Pro. Start playing your tracks on our best wireless earbuds and don't stop with a total playback of 45 hours. Never miss a beat with boAt Signature Sound on our all-new boAt Airdopes so that every song that you listen to shines through. Plug-in and live the sound."
+  }
+
 ]
