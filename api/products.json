@@ -58,7 +58,7 @@
     "price": 2499.00,
     "stock": 20,
     "image": "../images/watch7.png",
-    "description": "Experience excellence with boAt Lunar Connect Ace smartwatch. Its 1.43 AMOLED Display delivers crystal-clear clarity and vibrant colors so you don’t miss any details. Stay connected with Bluetooth calling and save up to 10 contacts for quick dialing. Choose your style with metal mesh, leather, or silicone strap options as you add the edge by changing the watch face everyday from the 100+ options. "
+    "description": "Experience excellence with boAt Lunar Connect Ace smartwatch. Its 1.43 AMOLED Display delivers crystal-clear clarity and vibrant colors so you don’t miss any details. Stay connected with Bluetooth calling and save up to 10 contacts for quick dialing. "
   }
   ,
   {
@@ -91,7 +91,7 @@
     "price": 1999.00,
     "stock": 300,
     "image": "../images/headphone-prod-3.webp",
-    "description": "Ladies, the time hath come to reach the wall of fame. Make your hustle shine like a diamond with TRebel Rockerz 550 — an audio partner that’s made to suit your vibe. Let your hustle never stop with its 20 hours of powerful playback and never settle for less with the sheer audio power of 50mm Dynamic Drivers. Block the voices that don’t matter with its physical noise isolation. "
+    "description": "Ladies, the time hath come to reach the wall of fame. Make your hustle shine like a diamond with TRebel Rockerz 550 — an audio partner that’s made to suit your vibe. Let your hustle never stop with its 20 hours of powerful playback and never settle for less with the sheer audio power of 50mm Dynamic Drivers. "
   }
   ,
   {
@@ -102,29 +102,29 @@
     "price": 3799.00,
     "stock": 30,
     "image": "../images/earbuds-prod-2.webp",
-    "description": "Immerse in the 20W RMS Stereo Sound with the powerful Party Pal 50 bluetooth speaker. Set the vibes of the party just right with the RGB LEDs. Keep worries at bay and party poolside with IPX5 splash resistant! Get, set, grooving as Party Pal 50 comes with a powerful playback of 4.5 Hrs "
+    "description": "Immerse in the 20W RMS Stereo Sound with the powerful Party Pal 50 bluetooth speaker. Set the vibes of the party just right with the RGB LEDs. Keep worries at bay and party poolside with IPX5 splash resistant!  "
   }
   ,
   {
-    "id": 10,
+    "id": 11,
     "name": "boAt Airdopes 141 Pro ",
     "category": "Headphones",
     "brand": "Boat",
     "price": 1499.00,
     "stock": 30,
     "image": "../images/earbuds-prod-4.webp",
-    "description": "Take a step up on your listening experience with boAt Airdopes 141 Pro. Start playing your tracks on our best wireless earbuds and don't stop with a total playback of 45 hours. Never miss a beat with boAt Signature Sound on our all-new boAt Airdopes so that every song that you listen to shines through. Plug-in and live the sound."
+    "description": "Take a step up on your listening experience with boAt Airdopes 141 Pro. Start playing your tracks on our best wireless earbuds and don't stop with a total playback of 45 hours. "
   }
   ,
   {
-    "id": 10,
+    "id": 12,
     "name": "Stone 352 - Wireless Portable Bluetooth Speaker ",
     "category": "Speakers",
     "brand": "Boat",
     "price": 3499.00,
     "stock": 100,
     "image": "../images/speaker-prod-3.webp",
-    "description": "Take a step up on your listening experience with boAt Airdopes 141 Pro. Start playing your tracks on our best wireless earbuds and don't stop with a total playback of 45 hours. Never miss a beat with boAt Signature Sound on our all-new boAt Airdopes so that every song that you listen to shines through. Plug-in and live the sound."
+    "description": "Take a step up on your listening experience with boAt Airdopes 141 Pro. Start playing your tracks on our best wireless earbuds and don't stop with a total playback of 45 hours. "
   }
 
 ]
